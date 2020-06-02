@@ -1,6 +1,6 @@
 {
     "atomType": "Molecule",
-    "name": "Cafe Table",
+    "name": "ZTable",
     "x": 0,
     "y": 0,
     "uniqueID": 241510,
@@ -1744,8 +1744,8 @@
         {
             "atomType": "Input",
             "name": "Height",
-            "x": 0.0314787701317716,
-            "y": 0.735632183908046,
+            "x": 0.04663212435233161,
+            "y": 0.7532467532467532,
             "uniqueID": 453938,
             "ioValues": []
         },
@@ -1798,8 +1798,8 @@
         {
             "atomType": "Svg",
             "name": "Svg",
-            "x": 0.7752562225475842,
-            "y": 0.30268199233716475,
+            "x": 0.7772020725388601,
+            "y": 0.3133116883116883,
             "uniqueID": 729607,
             "ioValues": []
         },
@@ -2027,5 +2027,5 @@
     ],
     "fileTypeVersion": 1,
     "filetypeVersion": 1,
-    "circleSegmentSize": 1
+    "circleSegmentSize": "0.1"
 }
